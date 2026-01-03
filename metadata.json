@@ -1,0 +1,8 @@
+{
+  "name": "Hitesh Gottapu - Professional Portfolio",
+  "description": "A high-end, AI-enhanced professional portfolio for a senior developer, featuring a Gemini-powered chat assistant and sleek, responsive design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
